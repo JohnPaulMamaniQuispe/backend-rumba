@@ -1,0 +1,1 @@
+package com.backendrumba.rumba_music.model;public enum Roles {    USER,    ADMIN,    DJ}

@@ -1,0 +1,1 @@
+package com.backendrumba.rumba_music.dto;public class DeviceRequest {    private String deviceName;    public String getDeviceName() {        return deviceName;    }    public void setDeviceName(String deviceName) {        this.deviceName = deviceName;    }}
